@@ -1,5 +1,3 @@
-package lesson4;
-
 public class ABC {
     static Object mon = new Object();
     static volatile char currentLetter = 'C';
